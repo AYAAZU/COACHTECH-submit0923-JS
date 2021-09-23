@@ -1,0 +1,38 @@
+.card{
+  width: 760px;
+  box-shadow: 0px 6px 10px #eeeeee;
+  display: flex;
+}
+
+.card__img{
+  width:40%;
+}
+
+
+.card__img img{
+  width:100%;
+}
+
+.card__content{
+  padding: 15px;
+}
+
+.card__content__ttl{
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.card__content__tag{
+  font-size: 14px;
+}
+
+.card__content__tag-key1{
+  color: red;
+  display: inline-block;
+}
+
+.card__content__tag-kye2{
+  display: inline-block;
+  margin-left: 40px;
+}
